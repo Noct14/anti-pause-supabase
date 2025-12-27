@@ -1,0 +1,17 @@
+{
+  "name": "anti-pause-supabase",
+  "version": "1.0.0",
+  "description": "anti pause supabase",
+  "license": "ISC",
+  "author": "noct",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.89.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
